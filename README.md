@@ -1,5 +1,6 @@
 # Just-Talk
 
+![alt text](https://github.com/winnerfool/Just-Talk/blob/main/Screenshot%20(28).png)
 ![alt text](https://github.com/winnerfool/Just-Talk/blob/main/Screenshot%20(27).png)
 
 
